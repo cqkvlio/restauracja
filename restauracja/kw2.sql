@@ -1,0 +1,1 @@
+SELECT nazwa and cena FROM dania WHERE typ=2

@@ -1,0 +1,53 @@
+body {
+  background-color: #f6e5dc;
+  font-family: Verdana;
+}
+.baner {
+  background-color: #2f180c;
+  text-align: center;
+  color: khaki;
+  height: 60px;
+}
+.panel_lewy {
+  width: 60%;
+}
+.panel_lewy .obraz {
+  height: 350px;
+}
+.panel_prawy {
+  font-size: 150%;
+  padding: 70px;
+}
+.panel_dolny {
+  background-color: #d0b6a8;
+  text-align: center;
+  padding: 30px;
+}
+.stopka {
+  background-color: #2f180c;
+  color: khaki;
+  height: 60px;
+}
+.container {
+  display: flex;
+}
+.form {
+  display: flex;
+  flex-direction: column;
+}
+.label p {
+  padding: 0px;
+  margin: 0px;
+}
+.submit_button {
+  margin: 10px;
+  padding: 5px;
+  background-color: #2f180c;
+  color: khaki;
+}
+.reset_button {
+  margin: 10px;
+  padding: 5px;
+  background-color: #2f180c;
+  color: khaki;
+}
